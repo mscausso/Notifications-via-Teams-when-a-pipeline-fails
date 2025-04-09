@@ -1,4 +1,4 @@
-# Notifications-via-Teams-when-a-pipeline-fails
+# Notifications via Teams when a pipeline fails
 
 The following article was used to implement a solution using Microsoft Teams to send an alert message to an entire team when one or more of their data pipelines failed. Based on this, immediate actions could be taken to resolve the issue, preventing any impact on data transition and the visualization of reports used by many users in the company.
 
